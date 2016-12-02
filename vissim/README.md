@@ -4,4 +4,8 @@ If you don't know what is COM Interface or how to use COM of Vissim, please read
 
 ## Vissim 7 - COM.chm
 
-Developer can refer this document for the detail of Vissim 7's COM.
+Developers can refer this document for the detail of Vissim 7's COM.
+
+## com-examples/Basic Commands
+
+This folder contains examples of using COM Interface written with different programming languages. Developers can refer them to get a quick start.
